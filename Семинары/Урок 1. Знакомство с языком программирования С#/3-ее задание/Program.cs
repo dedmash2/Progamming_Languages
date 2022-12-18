@@ -27,4 +27,7 @@ else if (num == 3)
 }else if (num == 7)
 {
     Console.WriteLine("Воскресенье");
+}else
+{ 
+    Console.WriteLine("Введите корректное число(от 1 до 7)");
 }
